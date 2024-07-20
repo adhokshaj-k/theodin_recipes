@@ -1,3 +1,3 @@
 # theodin_recipes
-HTML based EXERCISE. /n 
+HTML based EXERCISE.
 This project is about applying knowledge about HTML
